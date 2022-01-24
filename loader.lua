@@ -39,3 +39,10 @@ if game.PlaceId == 6299805723 then
 else
     print("x")
 end
+
+--- ANIME CLICKER SIMULATOR
+if game.PlaceId == 3102144307 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xpa1n/pa1nhub/main/ACS.lua"))()
+else
+    print("x")
+end
