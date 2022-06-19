@@ -46,3 +46,10 @@ if game.PlaceId == 3102144307 then
 else
     print("x")
 end
+
+--- ANIME DIMENTIONS SIMULATOR
+if game.PlaceId == 6938803436 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xpa1n/pa1nhub/main/ADS.lua"))()
+else
+    print("x")
+end
