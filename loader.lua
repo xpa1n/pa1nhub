@@ -53,3 +53,10 @@ if game.PlaceId == 6938803436 then
 else
     print("x")
 end
+
+--- MINING SIMULATOR 2
+if game.PlaceId == 9551640993 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xpa1n/pa1nhub/main/MiningSim2.lua"))()
+else
+    print("x")
+end
