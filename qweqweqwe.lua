@@ -1360,7 +1360,7 @@ local autoloadscripttoggle = Misc:CreateToggle({
 wait()
 function autoloadscript()
     pcall(function()
-        queue_on_teleport("local scriptLoaded = false repeat task.wait() scriptLoaded = pcall(function() loadstring(game:HttpGet('https://github.com/xpa1n/pa1nhub/raw/main/luaqweqw.lua'))() end) until scriptLoaded print('Script loaded successfully!')")
+        queue_on_teleport("local scriptLoaded = false repeat task.wait() scriptLoaded = pcall(function() loadstring(game:HttpGet('https://github.com/xpa1n/pa1nhub/raw/main/qweqweqwe.lua'))() end) until scriptLoaded print('Script loaded successfully!')")
     end)
 end
 
